@@ -2,7 +2,7 @@
 /**
  * 这是基于 Typecho 默认皮肤轻度修改而成。
  * 
- * @package Replica Moded by Alice
+ * @package Replica Mod
  * @author Alice
  * @version 1.3
  * @link https://blog.sandtears.com
