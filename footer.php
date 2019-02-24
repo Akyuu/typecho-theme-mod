@@ -10,5 +10,7 @@
 </footer><!-- end #footer -->
 
 <?php $this->footer(); ?>
+
+<script>pangu.spacingPage();</script>
 </body>
 </html>
